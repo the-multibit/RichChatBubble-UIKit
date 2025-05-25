@@ -21,7 +21,7 @@ This project is a customizable, rich media **chat bubble UI** built in **UIKit**
 
 ## 📱 Screenshot
 
-<img src="simulator_screenshot_C4CF86AA-CE32-4920-9DA9-D335C643A49F.png" width="300" />
+<img src="preview_screenshot.png" width="300" />
 
 ## 🛠️ Technologies
 
